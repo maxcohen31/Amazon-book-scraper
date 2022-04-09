@@ -9,7 +9,7 @@ Clone the project
 ```
 ## Directory Structure
 ```bash
-  tree --charset='ASCII' amazonscraper/
+  tree --dirsfirst --charset='ASCII' amazonscraper/
 ```
 
 Go to the project directory
