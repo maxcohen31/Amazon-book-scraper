@@ -9,7 +9,7 @@ Clone the project
 ```
 ## Directory Structure
 ```bash
-  tree Amazon-book-scraper
+  tree amazonscraper
 ```
 
 Go to the project directory
