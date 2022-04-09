@@ -7,10 +7,14 @@ Clone the project
 ```bash
   git clone https://github.com/maxcohen31/Amazon-book-scraper.git
 ```
+## Directory Structure
+```bash
+  
+```
 
 Go to the project directory
 
 ```bash
   cd Amazon-book-scraper
-  cd Amazon_Scrapper
+  cd amazonscraper/amazonscraper/spiders/
 ```
