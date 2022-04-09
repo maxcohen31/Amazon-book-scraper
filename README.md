@@ -8,6 +8,7 @@ Clone the project
   git clone https://github.com/maxcohen31/Amazon-book-scraper.git
 ```
 ## Directory Structure
+```bash
 amazonscraper/
 |-- amazonscraper
 |   |-- __init__.py
@@ -27,6 +28,7 @@ amazonscraper/
 |           |-- amazon_book_scraper.cpython-39.pyc
 |           `-- __init__.cpython-39.pyc
 `-- scrapy.cfg
+```
 
 Go to the project directory
 
