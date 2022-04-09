@@ -29,6 +29,11 @@ amazonscraper/
 |           `-- __init__.cpython-39.pyc
 `-- scrapy.cfg
 ```
+# Setup a virtual enviroment
+```bash
+virtualenv amazonscraper ; source bin/activate
+pip install scrapy
+```
 
 Go to the project directory
 
