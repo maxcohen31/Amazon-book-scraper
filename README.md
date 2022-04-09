@@ -36,3 +36,9 @@ Go to the project directory
   cd Amazon-book-scraper
   cd amazonscraper/amazonscraper/spiders/
 ```
+
+Run the crawler
+```bash
+  python3 amazon_book_scraper.py
+```
+  
