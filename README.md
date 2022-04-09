@@ -29,20 +29,20 @@ amazonscraper/
 |           `-- __init__.cpython-39.pyc
 `-- scrapy.cfg
 ```
-# Setup a virtual enviroment
+## Setup a virtual enviroment
 ```bash
 virtualenv amazonscraper ; source bin/activate
 pip install scrapy
 ```
 
-Go to the project directory
+## Go to the project directory
 
 ```bash
   cd Amazon-book-scraper
   cd amazonscraper/amazonscraper/spiders/
 ```
 
-Run the crawler
+## Run the crawler
 ```bash
   python3 amazon_book_scraper.py
 ```
