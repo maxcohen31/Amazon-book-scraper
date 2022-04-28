@@ -1,5 +1,5 @@
 # Amazon-book-scraper
-Amazon crawler made by using Scrapy framework
+Amazon spider made by using Scrapy framework
 
 ## Run Locally
 Clone the project
